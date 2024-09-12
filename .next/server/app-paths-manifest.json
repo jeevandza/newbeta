@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/contact-us/page": "app/contact-us/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/services/development/page": "app/services/development/page.js",
+  "/services/strategic-insight/page": "app/services/strategic-insight/page.js",
+  "/services/strategic-marketing/page": "app/services/strategic-marketing/page.js",
+  "/services/compliance/page": "app/services/compliance/page.js",
+  "/services/design-printing/page": "app/services/design-printing/page.js",
+  "/who-we-are/research-report/page": "app/who-we-are/research-report/page.js",
+  "/who-we-are/strategic-marketing/page": "app/who-we-are/strategic-marketing/page.js",
+  "/who-we-are/trademark-and-branding/page": "app/who-we-are/trademark-and-branding/page.js",
+  "/who-we-are/what-we-think/page": "app/who-we-are/what-we-think/page.js",
+  "/services/logo-design/page": "app/services/logo-design/page.js",
+  "/who-we-are/case-study/page": "app/who-we-are/case-study/page.js",
+  "/who-we-are/perspective/page": "app/who-we-are/perspective/page.js"
+}
